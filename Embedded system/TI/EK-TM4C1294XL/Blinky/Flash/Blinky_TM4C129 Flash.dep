@@ -1,0 +1,32 @@
+Dependencies for Project 'Blinky', Target 'TM4C129 Flash': (DO NOT MODIFY !)
+F (.\Serial.c)(0x58A5CB0A)(-c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork -I"C:\Users\Wentao Bi\Documents\2_semester\Embedded_sys\Boards - Copy_on_4_7\TI\EK-TM4C1294XL\Blinky\RTE\_TM4C129_Flash"-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C129-D__UVISION_VERSION="522" -D_RTE_ -DTM4C1294NCPDT-o .\flash\serial.o --omf_browse .\flash\serial.crf --depend .\flash\serial.d)
+I (C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C129\TM4C129.h)(0x530F5566)
+I (C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C129\TM4C1294NCPDT.h)(0x530F5566)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include\core_cm4.h)(0x5825F0AE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F6BD88)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include\cmsis_compiler.h)(0x5825F0AE)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include\cmsis_armcc.h)(0x5825F0AE)
+I (C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C129\system_TM4C129.h)(0x51C0615A)
+I (Serial.h)(0x530FA788)
+F (.\Blinky.c)(0x58E6EA76)(-c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork -I"C:\Users\Wentao Bi\Documents\2_semester\Embedded_sys\Boards - Copy_on_4_7\TI\EK-TM4C1294XL\Blinky\RTE\_TM4C129_Flash"-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C129-D__UVISION_VERSION="522" -D_RTE_ -DTM4C1294NCPDT-o .\flash\blinky.o --omf_browse .\flash\blinky.crf --depend .\flash\blinky.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x57F6BD88)
+I (C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C129\TM4C129.h)(0x530F5566)
+I (C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C129\TM4C1294NCPDT.h)(0x530F5566)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include\core_cm4.h)(0x5825F0AE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F6BD88)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include\cmsis_compiler.h)(0x5825F0AE)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include\cmsis_armcc.h)(0x5825F0AE)
+I (C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C129\system_TM4C129.h)(0x51C0615A)
+I (Serial.h)(0x530FA788)
+I (LED.h)(0x530FA788)
+I (BTN.h)(0x530FA788)
+F (.\Abstract.txt)(0x530FA1D2)()
+F (RTE\Device\TM4C1294NCPDT\startup_TM4C129.s)(0x530FA1D2)(--cpu Cortex-M4.fp --pd "__EVAL SETA 1" -g --apcs=interwork -I"C:\Users\Wentao Bi\Documents\2_semester\Embedded_sys\Boards - Copy_on_4_7\TI\EK-TM4C1294XL\Blinky\RTE\_TM4C129_Flash"-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C129--pd "__UVISION_VERSION SETA 522" --pd "_RTE_ SETA 1" --pd "TM4C1294NCPDT SETA 1"--list .\flash\startup_tm4c129.lst --xref -o .\flash\startup_tm4c129.o --depend .\flash\startup_tm4c129.d)
+F (RTE\Device\TM4C1294NCPDT\system_TM4C129.c)(0x530FA1D2)(-c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork -I"C:\Users\Wentao Bi\Documents\2_semester\Embedded_sys\Boards - Copy_on_4_7\TI\EK-TM4C1294XL\Blinky\RTE\_TM4C129_Flash"-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C129-D__UVISION_VERSION="522" -D_RTE_ -DTM4C1294NCPDT-o .\flash\system_tm4c129.o --omf_browse .\flash\system_tm4c129.crf --depend .\flash\system_tm4c129.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F6BD88)
+I (C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C129\TM4C129.h)(0x530F5566)
+I (C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C129\TM4C1294NCPDT.h)(0x530F5566)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include\core_cm4.h)(0x5825F0AE)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include\cmsis_compiler.h)(0x5825F0AE)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include\cmsis_armcc.h)(0x5825F0AE)
+I (C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C129\system_TM4C129.h)(0x51C0615A)
